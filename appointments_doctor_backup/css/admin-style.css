@@ -1,0 +1,14 @@
+.backup-form {
+    display: flex;
+    flex-direction: column;
+}
+.backup-form input {
+    margin: 10px 0;
+}
+.backup-form label,
+.backup-form .form-title {
+    font-size: 15px;
+}
+.backup-form input[type="submit"] {
+    width: 80px;
+}
